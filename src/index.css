@@ -5,6 +5,7 @@
 @tailwind utilities;
 
 :root {
-  font-family: "Poppins", sans-serif;
+  font-family: monospace,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color-scheme: dark;
+  
 }
