@@ -1,4 +1,5 @@
-# VirtualNexus
+# VIRTUALNEXUS
+
 
 Virtual_Nexus is an engaging landing page designed with React JS and Tailwind CSS.
 
@@ -8,7 +9,7 @@ Virtual_Nexus is an engaging landing page designed with React JS and Tailwind CS
 
  . Visually Appealing: Features a sleek, contemporary look that captures attention and enhances user engagement.
 
--If you want to run this project in your local machine, you need to follow two bascis step; 
+- If you want to run this project in your local machine, you need to follow two bascis step; 
      1st Step:- Clone this Repository
      2nd Step:- Open Terminal enter this 2 commands- 
             1) cd my-project
